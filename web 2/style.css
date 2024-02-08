@@ -1,0 +1,16 @@
+header {
+    background-color: lightgoldenrodyellow;
+}
+section {
+    background-color:orangered;
+}
+div.bloc2 {
+    color: green;
+    background-color: yellow;
+}
+span.roig {
+    color: red;
+}
+.verde {
+    background-color: greenyellow;
+}
